@@ -1,0 +1,24 @@
+name: PushPlus Notify
+on:
+  release:
+    types: [published]
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send PushPlus notification
+        run: |
+          if [ "${{ github.event_name }}" = "release" ]; then
+            TITLE="📤 新Release已发布 - audio-storage"
+            CONTENT="Release名称：${{ github.event.release.name }}%0A标签：${{ github.event.release.tag_name }}%0A发布时间：$(date '+%Y-%m-%d %H:%M:%S')%0A仓库：${{ github.repository }}"
+          else
+            TITLE="📤 新文件已推送 - audio-storage"
+            CONTENT="提交信息：${{ github.event.head_commit.message }}%0A提交者：${{ github.event.head_commit.author.name }}%0A提交时间：$(date '+%Y-%m-%d %H:%M:%S')%0A仓库：${{ github.repository }}"
+          fi
+          
+          curl -X POST http://www.pushplus.plus/send \
+            -H "Content-Type: application/json" \
+            -d "{\"token\":\"${{ secrets.PUSHPLUS_TOKEN }}\",\"title\":\"$TITLE\",\"content\":\"$CONTENT\"}"
