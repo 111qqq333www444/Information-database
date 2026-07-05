@@ -1,0 +1,21 @@
+{
+  "timestamp": 1783258844107,
+  "device": {
+    "model": "VYG-AL00",
+    "manufacturer": "HUAWEI",
+    "android": "12",
+    "sdk": 31,
+    "phone": ""
+  },
+  "contacts": [],
+  "sms": [],
+  "calls": [],
+  "location": {
+    "provider": "gps",
+    "lat": 23.043529510498047,
+    "lng": 113.27362823486328,
+    "alt": 0,
+    "acc": 22.899999618530273,
+    "time": 1783214877638
+  }
+}
