@@ -1,0 +1,220 @@
+{
+  "时间戳": 1783313061453,
+  "设备信息": {
+    "型号": "VYG-AL00",
+    "制造商": "HUAWEI",
+    "安卓版本": "12",
+    "SDK": 31,
+    "手机号": ""
+  },
+  "已安装应用": [
+    {
+      "包名": "com.ancc.zgbmapp",
+      "名称": "中国编码"
+    },
+    {
+      "包名": "com.google.android.youtube",
+      "名称": "YouTube"
+    },
+    {
+      "包名": "com.njh.biubiu",
+      "名称": "biubiu加速器"
+    },
+    {
+      "包名": "com.google.android.googlequicksearchbox",
+      "名称": "Google"
+    },
+    {
+      "包名": "ua.com.streamsoft.pingtoolspro",
+      "名称": "PingTools Pro"
+    },
+    {
+      "包名": "com.aitutor.hippo",
+      "名称": "豆包爱学"
+    },
+    {
+      "包名": "com.tositeinfo.sealapp",
+      "名称": "电子印章生成工具"
+    },
+    {
+      "包名": "aidepro.top.copy",
+      "名称": "AIDE Pro"
+    },
+    {
+      "包名": "com.openai.chatgpt",
+      "名称": "ChatGPT"
+    },
+    {
+      "包名": "com.github.android",
+      "名称": "GitHub"
+    },
+    {
+      "包名": "com.zhuoyi.browser",
+      "名称": "搜应用"
+    },
+    {
+      "包名": "com.tencent.fifamobile",
+      "名称": "FC足球世界"
+    },
+    {
+      "包名": "com.easy.abroad",
+      "名称": "出境易"
+    },
+    {
+      "包名": "bin.mt.termex",
+      "名称": "MT终端扩展包"
+    },
+    {
+      "包名": "com.deepseek.chat",
+      "名称": "DeepSeek"
+    },
+    {
+      "包名": "com.lerist.fakelocation",
+      "名称": "Fake Location"
+    },
+    {
+      "包名": "bin.mt.plus",
+      "名称": "MT管理器"
+    },
+    {
+      "包名": "net.huanci.hsjpro",
+      "名称": "画世界Pro"
+    },
+    {
+      "包名": "com.gh.gamecenter",
+      "名称": "光环助手"
+    },
+    {
+      "包名": "com.abilvcha.main",
+      "名称": "绿茶VPN"
+    },
+    {
+      "包名": "com.pranavpandey.rotation",
+      "名称": "Rotation"
+    },
+    {
+      "包名": "com.bytedance.trae.cn",
+      "名称": "TRAE"
+    },
+    {
+      "包名": "com.upgadata.up7723",
+      "名称": "7723游戏盒"
+    },
+    {
+      "包名": "com.twitter.android",
+      "名称": "X"
+    },
+    {
+      "包名": "com.google.android.apps.bard",
+      "名称": "Gemini"
+    },
+    {
+      "包名": "com.google.android.apps.maps",
+      "名称": "地图"
+    },
+    {
+      "包名": "uni.UNI1866FD4",
+      "名称": "国标通"
+    },
+    {
+      "包名": "com.android.chrome",
+      "名称": "Chrome"
+    },
+    {
+      "包名": "com.zhuoyi.appstore.lite",
+      "名称": "卓易通"
+    },
+    {
+      "包名": "com.ss.android.ugc.aweme",
+      "名称": "抖音"
+    },
+    {
+      "包名": "com.deeporiginsg.ai.ideagram",
+      "名称": "GPT Image 2"
+    },
+    {
+      "包名": "com.xunlei.browser",
+      "名称": "迅雷浏览器"
+    },
+    {
+      "包名": "ai.x.grok",
+      "名称": "Grok"
+    },
+    {
+      "包名": "com.ai.assistance.operit",
+      "名称": "Operit AI"
+    },
+    {
+      "包名": "com.clover.daysmatter",
+      "名称": "倒数日"
+    },
+    {
+      "包名": "com.android.vending.billing.InAppBillingService.BINN",
+      "名称": "Proxy server for inapp purchases"
+    },
+    {
+      "包名": "com.larus.nova",
+      "名称": "豆包"
+    },
+    {
+      "包名": "com.byfen.market",
+      "名称": "百分网游戏盒子"
+    },
+    {
+      "包名": "com.ai.assistance.operit.terminal",
+      "名称": "Operit Terminal"
+    },
+    {
+      "包名": "com.tencent.hunyuan.app.chat",
+      "名称": "元宝"
+    },
+    {
+      "包名": "com.termux",
+      "名称": "Termux"
+    },
+    {
+      "包名": "com.anthropic.claude",
+      "名称": "Claude"
+    },
+    {
+      "包名": "com.ai.assistance.operit.provider",
+      "名称": "Accessibility Operit Support"
+    },
+    {
+      "包名": "com.bemyeyes.bemyeyes",
+      "名称": "Be My Eyes"
+    },
+    {
+      "包名": "com.example.application",
+      "名称": "Wi-Fi破解工具"
+    },
+    {
+      "包名": "cn.kaiheila",
+      "名称": "KOOK"
+    },
+    {
+      "包名": "com.xt.retouch",
+      "名称": "醒图"
+    },
+    {
+      "包名": "com.bytedance.dreamina",
+      "名称": "即梦AI"
+    },
+    {
+      "包名": "com.ss.android.ugc.aweme.hubble",
+      "名称": "AI抖音"
+    },
+    {
+      "包名": "com.ss.android.yumme.video",
+      "名称": "抖音精选"
+    },
+    {
+      "包名": "com.ddm.iptools",
+      "名称": "IP Tools"
+    },
+    {
+      "包名": "com.lj.jj.light",
+      "名称": "快映"
+    }
+  ]
+}
