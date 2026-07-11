@@ -1,7 +1,6 @@
 {
-  "versionCode": 12,
+  "versionCode": 13,
   "versionName": "1.2",
-  "downloadUrl": "https://github.com/111qqq333www444/Information-database/releases/download/v1.0.1/星河联盟_1.0.1.apk",
-  "updateLog": "【v1.0.1】1. 全新底部导航栏UI（WiFi/我的） 2. 版本自动检测与一键更新 3. 📢公告系统进一步完善 4. 修复稳定性问题",
-  "forceUpdate": false
+  "downloadUrl": "https://github.com/111qqq333www444/Information-database/releases/download/v1.2/星河联盟_1.2.apk",
+  "updateLog": "新增功能请自行探索"
 }
